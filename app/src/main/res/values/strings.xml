@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="btn_str">Change Text</string>
+    <string name="btn_img">Show Image</string>
+    <string name="chk_bx1">COFFEE</string>
+    <string name="chk_bx2">TEA</string>
+    <string name="btn_chk">Confirm</string>
+</resources>
